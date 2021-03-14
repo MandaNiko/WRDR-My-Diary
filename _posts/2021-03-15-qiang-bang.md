@@ -9,7 +9,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-![ch](../assets/images/qb1.jpg)
+![qb](..assets/images/qb1.jpg)
 ### **_强棒天使项目简介_**  
 
 > 习近平主席曾经说过：抓好教育是扶贫开发的根本大计，要让贫困家庭的孩子都能接受公平的、有质量的教育，起码学会一项有用的技能，不要让孩子输在起跑线上，尽力阻断贫困代际传递。把贫困地区孩子培养出来，这才是根本的扶贫之策。  
