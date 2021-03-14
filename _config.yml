@@ -1,9 +1,9 @@
 # "/" + 仓库的名字. 资源文件的路径组成部分
 baseurl: '/WRDR-My-Diary'
-baseurl_posts_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/posts/'
-baseurl_featured_img: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/hero/'
-baseurl_featured_thumbnail: '/Girls-Coding-Day-Jekyll-blog-3/assets/images/thumbnail/'
-baseurl_javascripts: '/Girls-Coding-Day-Jekyll-blog-3/assets/javascripts/'
+baseurl_posts_img: '/WRDR-My-Diary/assets/images/posts/'
+baseurl_featured_img: '/WRDR-My-Diary/assets/images/hero/'
+baseurl_featured_thumbnail: '/WRDR-My-Diary/assets/images/thumbnail/'
+baseurl_javascripts: '/WRDR-My-Diary/assets/javascripts/'
 
 # 网页的标题
 title: "吾尔达尔的主页"
