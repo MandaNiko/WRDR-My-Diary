@@ -2,7 +2,7 @@
 layout: post
 title:  "我的家乡-四川凉山"
 image:
-  feature: assets/images/fj2.jpg
+  feature: ../assets/images/fj2.jpg
   topPosition: -500px
 bgContrast: dark
 bgGradientOpacity: darker
