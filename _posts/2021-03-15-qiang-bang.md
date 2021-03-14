@@ -2,7 +2,7 @@
 layout: post
 title:  "关于强棒"
 image:
-  feature: assets/images/w1.jpg
+  feature: w1.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
