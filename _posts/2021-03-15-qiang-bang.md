@@ -2,7 +2,7 @@
 layout: post
 title:  "关于强棒天使"
 image:
-  feature: w1.jpg
+  feature: qb7.jpg
   topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
