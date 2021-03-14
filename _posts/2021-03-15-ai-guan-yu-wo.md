@@ -2,7 +2,7 @@
 layout: post
 title:  "关于吾尔达尔"
 image:
-  feature: ../assets/images/4.jpg
+  feature: WRDR-My-Diary/assets/images/posts/4.jpg
   topPosition: -256px
 bgContrast: dark
 bgGradientOpacity: darker
