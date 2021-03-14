@@ -6,9 +6,9 @@ baseurl_featured_thumbnail: '/WRDR-My-Diary/assets/images/thumbnail/'
 baseurl_javascripts: '/WRDR-My-Diary/assets/javascripts/'
 
 # 网页的标题
-title: "吾尔达尔的主页"
+title: "棒球少女吾尔达尔"
 # 网站的主标题
-name: "吾尔达尔的主页"
+name: "⚾️棒球少女吾尔达尔"
 description: "🌟hi~你好，我是吾尔达尔，很高兴认识你。"
 
 url: site url
